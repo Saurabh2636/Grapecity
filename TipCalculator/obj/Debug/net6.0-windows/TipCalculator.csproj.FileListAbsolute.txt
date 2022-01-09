@@ -1,0 +1,17 @@
+E:\.net\TipCalculator\bin\Debug\net6.0-windows\TipCalculator.exe
+E:\.net\TipCalculator\bin\Debug\net6.0-windows\TipCalculator.deps.json
+E:\.net\TipCalculator\bin\Debug\net6.0-windows\TipCalculator.runtimeconfig.json
+E:\.net\TipCalculator\bin\Debug\net6.0-windows\TipCalculator.dll
+E:\.net\TipCalculator\bin\Debug\net6.0-windows\ref\TipCalculator.dll
+E:\.net\TipCalculator\bin\Debug\net6.0-windows\TipCalculator.pdb
+E:\.net\TipCalculator\obj\Debug\net6.0-windows\TipCalculator.Form1.resources
+E:\.net\TipCalculator\obj\Debug\net6.0-windows\TipCalculator.csproj.GenerateResource.cache
+E:\.net\TipCalculator\obj\Debug\net6.0-windows\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\TipCalculator\obj\Debug\net6.0-windows\TipCalculator.AssemblyInfoInputs.cache
+E:\.net\TipCalculator\obj\Debug\net6.0-windows\TipCalculator.AssemblyInfo.cs
+E:\.net\TipCalculator\obj\Debug\net6.0-windows\TipCalculator.csproj.CoreCompileInputs.cache
+E:\.net\TipCalculator\obj\Debug\net6.0-windows\TipCalculator.dll
+E:\.net\TipCalculator\obj\Debug\net6.0-windows\ref\TipCalculator.dll
+E:\.net\TipCalculator\obj\Debug\net6.0-windows\TipCalculator.pdb
+E:\.net\TipCalculator\obj\Debug\net6.0-windows\TipCalculator.genruntimeconfig.cache
+E:\.net\TipCalculator\obj\Debug\net6.0-windows\TipCalculator.csproj.AssemblyReference.cache
